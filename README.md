@@ -10,7 +10,7 @@ The naïve Bayes (NB) classifier is a family of simple probabilistic classifiers
 
 Despite apparently over-simplifier assumptions, NB classifier works quite well in many complex real-world applications, such as text classification, keyphrase extraction, medical diagnosis. This paradox is explained by Zhang that true reason for its competitive performance in classification lies in the dependence distribution [4]. In more details, how the local dependence of a feature distributes in each category, evenly or unevenly, and how the local dependencies of all features work together, consistently (supporting a certain category) or inconsistently (cancelling each other out), plays a crucial role.
 
-As one of the most efficient inductive learning algorithms, NB classifier is often used as a baseline in text classification because it is fast and easy to implement. Moreover, with appropriate pre-processing, it is competitive with more advanced methods including support vector machines (SVMs) [2]. However, classical NB classifier, as standardly presented, is not fully Bayesian. At least not in the sense that a posterior distribution over parameters is estimated from training documents and then used for predictive inference for new document. 
+As one of the most efficient inductive learning algorithms, NB classifier is often used as a baseline in text classification because it is fast and easy to implement. Moreover, with appropriate pre-processing, it is competitive with more advanced methods including support vector machines (SVMs) [2]. However, classical NB classifier, as standardly presented, is not fully Bayesian. At least not in the sense that a posterior distribution over parameters is estimated from training documents and then used for predictive inference for new document. Therefore, several fully Bayesian NB classifiers were proposed in [5]. This is a launch for the distribution of the source code from our paper [5]. 
 
 1.2. News, Comments, and Bug Reports.
 ===========
@@ -18,11 +18,8 @@ We highly appreciate any suggestion, comment, and bug report.
 
 1.3. License
 ===========
-NaiveBayes is a free JAVA toolbox; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
-
-NaiveBayes is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with MLSSVR; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA.
+Code (c) 2011 Jacob Eisenstein
+[Licensed under the Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 3. References
 ===========
