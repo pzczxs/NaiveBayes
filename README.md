@@ -26,13 +26,13 @@ You should have received a copy of the GNU General Public License along with MLS
 
 3. References
 ===========
-[1]	George H. John and Pat Langley, 1995. Estimating continuous distributions in Bayesian classifiers. Proceedings of the 11th International Conference on Uncertainty in Artificial Intelligence, San Francisco, CA, pp. 338-345. 
+[1]	George H. John and Pat Langley, 1995. Estimating continuous distributions in Bayesian classifiers. *Proceedings of the 11th International Conference on Uncertainty in Artificial Intelligence*, San Francisco, CA, pp. 338-345. 
 
-[2]	Andrew McCallum and Kamal Nigam, 1998. A comparison of event models for naïve Bayes text classification. ICML/AAAI-98 Workshop on Learning for Text Categorization, AAAI, pp. 41-48. 
+[2]	Andrew McCallum and Kamal Nigam, 1998. A comparison of event models for naïve Bayes text classification. *ICML/AAAI-98 Workshop on Learning for Text Categorization*, AAAI Press, pp. 41-48. 
 
-[3]	Vangelis Metsis, Ion Androutsopoulos, and Georgios Paliouras, 2006. Spam filtering with naive Bayes – which naive Bayes? The 3rd Conference on Email and Anti-Spam. 
+[3]	Vangelis Metsis, Ion Androutsopoulos, and Georgios Paliouras, 2006. Spam filtering with naive Bayes – which naive Bayes? *The 3rd Conference on Email and Anti-Spam*. 
 
-[4]	Harry Zhang, 2004. The optimality of naive Bayes. Proceedings of the 17th International Florida Artificial Intelligence Research Society Conference, AAAI Press, pp. 562-567. 
+[4]	Harry Zhang, 2004. The optimality of naive Bayes. *Proceedings of the 17th International Florida Artificial Intelligence Research Society Conference*, AAAI Press, pp. 562-567. 
 
-[5] Shuo Xu, 2016. Bayesian Naive Bayes Classifiers to Text Classification Journal of Information Science. 
+[5] Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.me.uk/3759/accepted/pdf). *Journal of Information Science*. 
 
