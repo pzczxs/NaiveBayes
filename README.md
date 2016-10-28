@@ -1,1 +1,1 @@
-# NaiveBayes
+# Bayesian Naive Bayes Classifiers
