@@ -196,8 +196,7 @@ public class Converter {
 	public static void main(String[] args) throws FileNotFoundException {
 		final String[] baseNames = {
 				"data/news20/20ng", 
-				"data/WebKB/webkb", 
-				"data/Cade12/cade"
+				"data/WebKB/webkb"
 				}; 
 		
 		for (int i = 0; i < baseNames.length; i++) {
