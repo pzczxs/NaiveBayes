@@ -33,9 +33,13 @@ Similar to [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/), The format of t
 .
 .
 
-Each line contains an instance and is ended by a '\n' character.  <label> is a string indicating the class label. The pair \<index\>:\<value\> gives a feature (attribute) value: \<index\> is an integer starting from 0 and \<value\> is a real number. Indices
+Each line contains an instance and is ended by a '\n' character.  \<label\> is a string indicating the category label. The pair \<index\>:\<value\> gives a feature (attribute) value: \<index\> is an integer starting from 0 and \<value\> is a real number. Indices
 must be in ASCENDING order. Labels in the testing file are only used to calculate accuracy or errors. If they are unknown, just fill the
 first column with any string.
+
+2.2. How to Use
+===========
+The ```Converter.java in''' the package '''cn.ac.istic.converters'''
 
 2.3. Additional Information
 ===========
