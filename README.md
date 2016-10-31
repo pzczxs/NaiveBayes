@@ -24,6 +24,19 @@ Code (c) 2011 Jacob Eisenstein
 2. How to Use NaiveBayes
 ===========
 
+2.1. Data Format
+===========
+Similar to [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/), The format of training and testing data file is:
+
+<label> <index1>:<value1> <index2>:<value2> ...
+.
+.
+.
+
+Each line contains an instance and is ended by a '\n' character.  <label> is a string indicating the class label. The pair <index>:<value> gives a feature (attribute) value: <index> is an integer starting from 0 and <value> is a real number. Indices
+must be in ASCENDING order. Labels in the testing file are only used to calculate accuracy or errors. If they are unknown, just fill the
+first column with any string.
+
 2.3. Additional Information
 ===========
 This tool is written by XU, Shuo from Institute of Scientific and Technical Information of China (ISTIC). If you find this tool useful, please cite NaiveBayes as follows
