@@ -10,7 +10,7 @@ The naïve Bayes (NB) classifier is a family of simple probabilistic classifiers
 
 Despite apparently over-simplifier assumptions, NB classifier works quite well in many complex real-world applications, such as text classification, keyphrase extraction, medical diagnosis. This paradox is explained by Zhang that true reason for its competitive performance in classification lies in the dependence distribution [4]. In more details, how the local dependence of a feature distributes in each category, evenly or unevenly, and how the local dependencies of all features work together, consistently (supporting a certain category) or inconsistently (cancelling each other out), plays a crucial role.
 
-As one of the most efficient inductive learning algorithms, NB classifier is often used as a baseline in text classification because it is fast and easy to implement. Moreover, with appropriate pre-processing, it is competitive with more advanced methods including support vector machines (SVMs) [2]. However, classical NB classifier, as standardly presented, is not fully Bayesian. At least not in the sense that a posterior distribution over parameters is estimated from training documents and then used for predictive inference for new document. Therefore, several fully Bayesian NB classifiers were proposed in our paper [5]. This is a launch for the distribution of the source code from our paper [5]. 
+As one of the most efficient inductive learning algorithms, NB classifier is often used as a baseline in text classification because it is fast and easy to implement. Moreover, with appropriate pre-processing, it is competitive with more advanced methods including support vector machines (SVMs) [2]. However, classical NB classifier, as standardly presented, is not fully Bayesian. At least not in the sense that a posterior distribution over parameters is estimated from training documents and then used for predictive inference for new document. Therefore, several fully Bayesian NB classifiers were proposed in our paper [5]. This is a launch for the distribution of the source code from our paper [5], including classical and Bayesian naive Bayes classifiers with multinomial, Bernoulli and Gaussian event models. 
 
 1.2. News, Comments, and Bug Reports.
 ===========
@@ -20,6 +20,17 @@ We highly appreciate any suggestion, comment, and bug report.
 ===========
 Code (c) 2011 Jacob Eisenstein
 [Licensed under the Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+2. How to Use NaiveBayes
+===========
+
+2.3. Additional Information
+===========
+This tool is written by XU, Shuo from Institute of Scientific and Technical Information of China (ISTIC). If you find this tool useful, please cite NaiveBayes as follows
+
+Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.me.uk/3759/accepted/pdf). *Journal of Information Science*. 
+
+For any question, please contact XU, Shuo xush@istic.ac.cn OR pzczxs@gmail.com.
 
 3. References
 ===========
