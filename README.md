@@ -39,7 +39,10 @@ first column with any string.
 
 2.2. How to Use
 ===========
-The ```Converter.java in''' the package '''cn.ac.istic.converters'''
+* Format Converter: The `Converter.java` in the package `cn.ac.istic.converters` converts the [data set](http://ana.cachopo.org/datasets-for-single-label-text-categorization) to the required data format. 
+* 
+
+
 
 2.3. Additional Information
 ===========
