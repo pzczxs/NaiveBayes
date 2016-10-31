@@ -37,12 +37,23 @@ Each line contains an instance and is ended by a '\n' character.  \<label\> is a
 must be in ASCENDING order. Labels in the testing file are only used to calculate accuracy or errors. If they are unknown, just fill the
 first column with any string.
 
+The `Converter.java` in the package `cn.ac.istic.converters` can convert the [data set](http://ana.cachopo.org/datasets-for-single-label-text-categorization) to the required data format. 
+
 2.2. How to Use
 ===========
-* Format Converter: The `Converter.java` in the package `cn.ac.istic.converters` converts the [data set](http://ana.cachopo.org/datasets-for-single-label-text-categorization) to the required data format. 
-* 
+As for training and testing procedure: 
 
+* Bayesian Naive Bayes Classifiers
+    * Multinomial Event Model: Please refer to `BayesianMultinomialNBUI.java` in the package `cn.ac.istic.ui`.
+    * Bernoulli Event Model: Please refer to `BayesianBernoulliNBUI.java` in the package `cn.ac.istic.ui`.
+    * Gaussian Event Model: Please refer to `BayesianGaussianNBUI.java` in the package `cn.ac.istic.ui`.
 
+* Classical Naive Bayes Classifiers
+    * Multinomial Event Model: Please refer to `MultinomialNBUI.java` in the package `cn.ac.istic.ui`.
+    * Bernoulli Event Model: Please refer to `BernoulliNBUI.java` in the package `cn.ac.istic.ui`.
+    * Gaussian Event Model: Please refer to `GaussianNBUI.java` in the package `cn.ac.istic.ui`.
+
+In order to tune resulting parameters with k-fold cross validation, you can refer to the JAVA files in the package `cn.ac.istic.cv`.
 
 2.3. Additional Information
 ===========
