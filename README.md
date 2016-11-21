@@ -59,7 +59,7 @@ In order to tune resulting parameters with k-fold cross validation, you can refe
 ===========
 This tool is written by XU, Shuo from Institute of Scientific and Technical Information of China (ISTIC). If you find this tool useful, please cite NaiveBayes as follows
 
-Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.me.uk/3759/accepted/pdf). *Journal of Information Science*. 
+Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.sagepub.com/content/early/2016/11/14/0165551516677946.abstract). *Journal of Information Science*. 
 
 For any question, please contact XU, Shuo xush@istic.ac.cn OR pzczxs@gmail.com.
 
@@ -73,5 +73,5 @@ For any question, please contact XU, Shuo xush@istic.ac.cn OR pzczxs@gmail.com.
 
 [4]	Harry Zhang, 2004. The optimality of naive Bayes. *Proceedings of the 17th International Florida Artificial Intelligence Research Society Conference*, AAAI Press, pp. 562-567. 
 
-[5] Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.me.uk/3759/accepted/pdf). *Journal of Information Science*. 
+[5] Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.sagepub.com/content/early/2016/11/14/0165551516677946.abstract). *Journal of Information Science*. 
 
