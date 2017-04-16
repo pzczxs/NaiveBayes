@@ -63,8 +63,7 @@ Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://
 
 For any question, please contact XU, Shuo xush@istic.ac.cn OR pzczxs@gmail.com.
 
-3. References
-===========
+#3. References
 [1]	George H. John and Pat Langley, 1995. Estimating continuous distributions in Bayesian classifiers. *Proceedings of the 11th International Conference on Uncertainty in Artificial Intelligence*, San Francisco, CA, pp. 338-345. 
 
 [2]	Andrew McCallum and Kamal Nigam, 1998. A comparison of event models for naïve Bayes text classification. *ICML/AAAI-98 Workshop on Learning for Text Categorization*, AAAI Press, pp. 41-48. 
