@@ -10,20 +10,16 @@ Despite apparently over-simplifier assumptions, NB classifier works quite well i
 
 As one of the most efficient inductive learning algorithms, NB classifier is often used as a baseline in text classification because it is fast and easy to implement. Moreover, with appropriate pre-processing, it is competitive with more advanced methods including support vector machines (SVMs) [2]. However, classical NB classifier, as standardly presented, is not fully Bayesian. At least not in the sense that a posterior distribution over parameters is estimated from training documents and then used for predictive inference for new document. Therefore, several fully Bayesian NB classifiers were proposed in our paper [5]. This is a launch for the distribution of the source code from our paper [5], including classical and Bayesian naive Bayes classifiers with multinomial, Bernoulli and Gaussian event models. 
 
-1.2. News, Comments, and Bug Reports.
-===========
+### 1.2. News, Comments, and Bug Reports.
 We highly appreciate any suggestion, comment, and bug report.
 
-1.3. License
-===========
+#### 1.3. License
 Code (c) 2011 Jacob Eisenstein
 [Licensed under the Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-2. How to Use NaiveBayes
-===========
+## 2. How to Use NaiveBayes
 
-2.1. Data Format
-===========
+### 2.1. Data Format
 Similar to [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/), The format of training and testing data file is:
 
 \<label\> \<index1\>:\<value1\> \<index2\>:\<value2\> ...
@@ -37,8 +33,7 @@ first column with any string.
 
 The `Converter.java` in the package `cn.ac.istic.converters` can convert the [data set](http://ana.cachopo.org/datasets-for-single-label-text-categorization) to the required data format. 
 
-2.2. How to Use
-===========
+### 2.2. How to Use
 As for training and testing procedure: 
 
 * Bayesian Naive Bayes Classifiers
@@ -53,15 +48,14 @@ As for training and testing procedure:
 
 In order to tune resulting parameters with k-fold cross validation, you can refer to the JAVA files in the package `cn.ac.istic.cv`.
 
-2.3. Additional Information
-===========
+### 2.3. Additional Information
 This tool is written by XU, Shuo from Institute of Scientific and Technical Information of China (ISTIC). If you find this tool useful, please cite NaiveBayes as follows
 
 Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.sagepub.com/content/early/2016/11/14/0165551516677946.abstract). *Journal of Information Science*. DOI: http://doi.org/10.1177/0165551516677946. 
 
 For any question, please contact XU, Shuo xush@istic.ac.cn OR pzczxs@gmail.com.
 
-#3. References
+## 3. References
 [1]	George H. John and Pat Langley, 1995. Estimating continuous distributions in Bayesian classifiers. *Proceedings of the 11th International Conference on Uncertainty in Artificial Intelligence*, San Francisco, CA, pp. 338-345. 
 
 [2]	Andrew McCallum and Kamal Nigam, 1998. A comparison of event models for naïve Bayes text classification. *ICML/AAAI-98 Workshop on Learning for Text Categorization*, AAAI Press, pp. 41-48. 
