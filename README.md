@@ -1,11 +1,9 @@
 # NaiveBayes
 Classical and Bayesian Naive Bayes Classifiers
 
-1. Introduction
-------
+## Introduction
 
-1.1. Description
-===========
+### 1.1. Description
 The naïve Bayes (NB) classifier is a family of simple probabilistic classifiers based on a common assumption that all features are independent of each other, given the category variable. The different NB classifiers differ mainly by the assumptions they make regarding the distribution of features. The assumptions on distribution of features are called event models of the NB classifier [1]. For discrete features, multinomial or Bernoulli distributions are popular. These assumptions lead to two distinct models, which are often confused [2][3]. When dealing with continuous features, a typical assumption is Gaussian distribution. 
 
 Despite apparently over-simplifier assumptions, NB classifier works quite well in many complex real-world applications, such as text classification, keyphrase extraction, medical diagnosis. This paradox is explained by Zhang that true reason for its competitive performance in classification lies in the dependence distribution [4]. In more details, how the local dependence of a feature distributes in each category, evenly or unevenly, and how the local dependencies of all features work together, consistently (supporting a certain category) or inconsistently (cancelling each other out), plays a crucial role.
