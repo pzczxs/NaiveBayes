@@ -2,7 +2,7 @@
 Classical and Bayesian Naive Bayes Classifiers
 
 1. Introduction
-===========
+------
 
 1.1. Description
 ===========
