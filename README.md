@@ -37,16 +37,16 @@ The `Converter.java` in the package `cn.ac.istic.converters` can convert the [da
 As for training and testing procedure: 
 
 * Bayesian Naive Bayes Classifiers
-    * Multinomial Event Model: Please refer to `BayesianMultinomialNBUI.java` in the package `cn.ac.istic.ui`.
-    * Bernoulli Event Model: Please refer to `BayesianBernoulliNBUI.java` in the package `cn.ac.istic.ui`.
-    * Gaussian Event Model: Please refer to `BayesianGaussianNBUI.java` in the package `cn.ac.istic.ui`.
+    * Multinomial Event Model: Please refer to [`BayesianMultinomialNBUI.java`](src/cn/ac/istic/ui/BayesianMultinomialNBUI.java) in the package [`cn.ac.istic.ui`](src/cn/ac/istic/ui).
+    * Bernoulli Event Model: Please refer to [`BayesianBernoulliNBUI.java`](src/cn/ac/istic/ui/`BayesianBernoulliNBUI.java) in the package [`cn.ac.istic.ui`](src/cn/ac/istic/ui).
+    * Gaussian Event Model: Please refer to [`BayesianGaussianNBUI.java`](src/cn/ac/istic/ui/`BayesianGaussianNBUI.java) in the package [`cn.ac.istic.ui`](src/cn/ac/istic/ui).
 
 * Classical Naive Bayes Classifiers
-    * Multinomial Event Model: Please refer to `MultinomialNBUI.java` in the package `cn.ac.istic.ui`.
-    * Bernoulli Event Model: Please refer to `BernoulliNBUI.java` in the package `cn.ac.istic.ui`.
-    * Gaussian Event Model: Please refer to `GaussianNBUI.java` in the package `cn.ac.istic.ui`.
+    * Multinomial Event Model: Please refer to [`MultinomialNBUI.java`](src/cn/ac/istic/ui/`MultinomialNBUI.java) in the package [`cn.ac.istic.ui`](src/cn/ac/istic/ui).
+    * Bernoulli Event Model: Please refer to [`BernoulliNBUI.java`](src/cn/ac/istic/ui/`BernoulliNBUI.java) in the package [`cn.ac.istic.ui`](src/cn/ac/istic/ui).
+    * Gaussian Event Model: Please refer to [`GaussianNBUI.java`](src/cn/ac/istic/ui/`GaussianNBUI.java) in the package [`cn.ac.istic.ui`](src/cn/ac/istic/ui).
 
-In order to tune resulting parameters with k-fold cross validation, you can refer to the JAVA files in the package `cn.ac.istic.cv`.
+In order to tune resulting parameters with k-fold cross validation, you can refer to the JAVA files in the package [`cn.ac.istic.cv`](src/cn/ac/istic/cv).
 
 ### 2.3. Additional Information
 This tool is written by XU, Shuo from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this tool useful, please cite NaiveBayes as follows:
