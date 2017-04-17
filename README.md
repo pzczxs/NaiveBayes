@@ -49,11 +49,11 @@ As for training and testing procedure:
 In order to tune resulting parameters with k-fold cross validation, you can refer to the JAVA files in the package `cn.ac.istic.cv`.
 
 ### 2.3. Additional Information
-This tool is written by XU, Shuo from Institute of Scientific and Technical Information of China (ISTIC). If you find this tool useful, please cite NaiveBayes as follows
+This tool is written by XU, Shuo from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this tool useful, please cite NaiveBayes as follows:
 
 Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.sagepub.com/content/early/2016/11/14/0165551516677946.abstract). *Journal of Information Science*. DOI: http://doi.org/10.1177/0165551516677946. 
 
-For any question, please contact XU, Shuo xush@istic.ac.cn OR pzczxs@gmail.com.
+For any question, please contact XU, Shuo xushuo@bjut.edu.cn OR pzczxs@gmail.com.
 
 ## 3. References
 [1]	George H. John and Pat Langley, 1995. Estimating continuous distributions in Bayesian classifiers. *Proceedings of the 11th International Conference on Uncertainty in Artificial Intelligence*, San Francisco, CA, pp. 338-345. 
