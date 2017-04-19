@@ -49,7 +49,7 @@ As for training and testing procedure:
 In order to tune resulting parameters with k-fold cross validation, you can refer to the JAVA files in the package [`cn.ac.istic.cv`](src/cn/ac/istic/cv).
 
 ### 2.3. Additional Information
-This tool is written by XU, Shuo from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this tool useful, please cite NaiveBayes as follows:
+This tool is written by [XU, Shuo](http://xushuo.space/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this tool useful, please cite NaiveBayes as follows:
 
 Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.sagepub.com/content/early/2016/11/14/0165551516677946.abstract). *Journal of Information Science*. DOI: http://doi.org/10.1177/0165551516677946. 
 
