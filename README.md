@@ -53,7 +53,7 @@ This tool is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing Univ
 
 Shuo Xu, 2018. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.sagepub.com/content/early/2016/11/14/0165551516677946.abstract). *Journal of Information Science*, Vol. 44, No. 1, pp. 48-59. DOI: http://doi.org/10.1177/0165551516677946. 
 
-For any question, please contact XU, Shuo xushuo@bjut.edu.cn OR pzczxs@gmail.com.
+For any question, please contact XU, Shuo at xushuo@bjut.edu.cn OR pzczxs@gmail.com.
 
 ## 3. References
 [1]	George H. John and Pat Langley, 1995. Estimating continuous distributions in Bayesian classifiers. *Proceedings of the 11th International Conference on Uncertainty in Artificial Intelligence*, San Francisco, CA, pp. 338-345. 
@@ -64,5 +64,5 @@ For any question, please contact XU, Shuo xushuo@bjut.edu.cn OR pzczxs@gmail.com
 
 [4]	Harry Zhang, 2004. The optimality of naive Bayes. *Proceedings of the 17th International Florida Artificial Intelligence Research Society Conference*, AAAI Press, pp. 562-567. 
 
-[5] Shuo Xu, 2016. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.sagepub.com/content/early/2016/11/14/0165551516677946.abstract). *Journal of Information Science*. DOI: http://doi.org/10.1177/0165551516677946. 
+[5] Shuo Xu, 2018. [Bayesian Naive Bayes Classifiers to Text Classification](http://jis.sagepub.com/content/early/2016/11/14/0165551516677946.abstract). *Journal of Information Science*, Vol. 44, No. 1, pp. 48-59. DOI: http://doi.org/10.1177/0165551516677946. 
 
